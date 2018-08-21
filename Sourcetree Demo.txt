@@ -1,6 +1,6 @@
 This is the initial commit. Lets do a roll call. Please enter your name on the following line:
 Albert
-jo
+jo  John Oliverio
 jp
 eh
 bh
