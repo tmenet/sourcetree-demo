@@ -2,7 +2,7 @@ This is the initial commit. Lets do a roll call. Please enter your name on the f
 Albert
 jo  John Oliverio
 jp
-eh
+elizabeth 
 bh
 ap
-sd
+sd - Stephen du Buis
