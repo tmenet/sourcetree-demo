@@ -9,3 +9,5 @@ sd - Stephen du Buis
 my bigtest feature
 
 oh boy another
+
+first change to fix issue #1
